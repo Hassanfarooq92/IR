@@ -3,7 +3,7 @@
 
 ## Description:
 
-This repository uses three datasets from UCI dateset repository for text classification using Naive Bayes, Rocchio (Nearest Centroid) and K Nearest Neighbor Algorithm. 
+This repository contains text classification using Naive Bayes, Rocchio (Nearest Centroid) and K Nearest Neighbor Algorithm.  The three datasets it uses are from UCI dateset repository for 
 
 ## Datasets:
 
@@ -13,7 +13,7 @@ This repository uses three datasets from UCI dateset repository for text classif
 
 2. [DBWorld e-mails Data Set](https://archive.ics.uci.edu/ml/datasets/DBWorld+e-mails#)
 
-3. [NIPS Conference Papers 1987-2015 Data Set](https://archive.ics.uci.edu/ml/datasets/NIPS+Conference+Papers+1987-2015)
+3. [Health News](https://archive.ics.uci.edu/ml/datasets/Health+News+in+Twitter#)
 
 ## Relevant Papers:
 
